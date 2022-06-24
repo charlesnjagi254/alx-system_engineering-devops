@@ -1,2 +1,1 @@
 #!/bin/bash
-mkdir tmp, echo "mkdir my_first_directory > /tmp/"
