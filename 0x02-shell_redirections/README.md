@@ -1,0 +1,1 @@
+redme shell_ridirections
